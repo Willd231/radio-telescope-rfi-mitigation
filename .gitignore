@@ -1,2 +1,13 @@
 ADCout.dat
 *.dat
+
+# build outputs and editor junk
+Processing/Gpu-Acceleration/cuda
+Processing/Gpu-Acceleration/testfft2
+Processing/Gpu-Acceleration/testfft3
+Acquisition/CarseData/corr_cpu_complex
+*.swp
+*.swo
+__pycache__/
+*.pyc
+output.txt*
